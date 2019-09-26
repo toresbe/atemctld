@@ -1,2 +1,2 @@
 # atemctld
-Control an ATEM video switcher with zmq
+Control an ATEM video switcher with an HTTP REST API
